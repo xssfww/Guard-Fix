@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.guhao.fix_guard.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "fix_guard.refmap.json",
+  "mixins": [
+    "GuardMixin"
+  ],
+  "client": [
+
+  ],
+  "minVersion": "0.8"
+}
